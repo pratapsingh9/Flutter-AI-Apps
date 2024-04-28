@@ -42,6 +42,10 @@ dependencies:
   shimmer_pro: ^0.0.6
   shimmer: ^3.0.0
   skeletons: ^0.0.3
+  http: ^1.2.1
+  speech_to_text: ^6.6.1
+  avatar_glow: ^3.0.1
+  speech_to_text_google_dialog: ^0.0.6
 
 dev_dependencies:
   flutter_test:
